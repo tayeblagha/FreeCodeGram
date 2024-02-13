@@ -1,6 +1,6 @@
 # FreeCodeGram
 FreeCodeGram is an Laravel Web Application that is cloning Instagram and it is designed including advanced Laravel functionalities Like Eloquent ORM.
-<img src="https://github.com/tayeblagha/FreeCodeGram/blob/main/public/Images/freecodegram.png?raw=true" />
+<img height="400" src="https://github.com/tayeblagha/FreeCodeGram/blob/main/public/Images/freecodegram.png?raw=true" />
 ## How to Run the Application
 
 To run this application locally, follow these steps:
