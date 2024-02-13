@@ -1,3 +1,47 @@
+# FreeCodeGram
+
+## How to Run the Application
+
+To run this application locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/tayeblagha/FreeCodeGram.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd FreeCodeGram
+    ```
+
+3. Install dependencies using npm:
+    ```bash
+    npm install
+    ```
+
+4. Install PHP dependencies using Composer:
+    ```bash
+    composer install
+    ```
+
+5. Compile assets with npm:
+    ```bash
+    npm run dev
+    ```
+
+6. Start the application:
+    ```bash
+    php artisan serve
+    ```
+
+This will start a development server, and you can access the application by visiting `http://localhost:8000` in your web browser.
+
+**Additional Notes:**
+- Make sure you have PHP and npm installed on your system before running the installation steps.
+- You may need to configure your environment variables in the `.env` file before running the application.
+- For production deployment, make sure to run `npm run prod` to compile assets for production.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
